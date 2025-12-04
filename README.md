@@ -119,10 +119,9 @@ for doc_id, score in results:
 - TF-IDF weights computed using standard formulas
 - Cosine similarity used as the ranking metric
 
-## License
 
-[Add your license here]
 
 ## Author
 
-[Add your name/contact here]
+Afzaal Kareem
+msds25062@itu.edu.pk
